@@ -707,14 +707,18 @@
         "sites": [
           {
             "site": "betkanyon",
-            "sort": "1"
+            "sort": "0"
           },
           {
             "site": "sekabet",
-            "sort": "2"
+            "sort": "1"
           },
           {
             "site": "bahisal",
+            "sort": "2"
+          },
+          {
+            "site": "galabet",
             "sort": "3"
           },
           {
@@ -741,10 +745,7 @@
             "site": "otobet",
             "sort": "9"
           },
-          {
-            "site": "galabet",
-            "sort": "10"
-          },
+
           {
             "site": "onwin",
             "sort": "11"
