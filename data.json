@@ -746,24 +746,28 @@
             "sort": "6"
           },
           {
-            "site": "babilonbet",
+            "site": "sterlinbet",
             "sort": "7"
           },
           {
-            "site": "bahisabi",
+            "site": "babilonbet",
             "sort": "8"
           },
           {
-            "site": "mersobahis",
+            "site": "bahisabi",
             "sort": "9"
           },
           {
-            "site": "otobet",
+            "site": "mersobahis",
             "sort": "10"
           },
           {
-            "site": "onwin",
+            "site": "otobet",
             "sort": "11"
+          },
+          {
+            "site": "onwin",
+            "sort": "12"
           },
 
           {
